@@ -1,6 +1,5 @@
 # encoding: UTF-8
 require 'chatterbot/dsl'
-require 'yaml'
 
 # reply to @mentions
 def reply_to_mentions
